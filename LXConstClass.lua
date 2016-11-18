@@ -25,7 +25,8 @@ kChatBubbleStep = 20;
 kChatBubbleX1 = 120;
 
 weChatPakeName = "com.tencent.mm";
-kTuLingURL = "http://www.tuling123.com/openapi/api?key=08a934e094f749f9bfc3ddf82a95ff3b&userid=tuling123&info=%s";
+--注意这里的key与userid自己去图灵机器人官网注册后获取，再替换
+kTuLingURL = "http://www.tuling123.com/openapi/api?key=***&userid=***&info=%s";
 kThanksYourRedPacket = "谢谢老板，嘻嘻";
 
 
